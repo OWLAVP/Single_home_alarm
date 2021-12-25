@@ -1,0 +1,2017 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodhi4.o)
+                              obj/Debug/GSM.o (__udivmodhi4)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodhi4.o)
+                              obj/Debug/18b20.o (__divmodhi4)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodsi4.o)
+                              obj/Debug/app.o (__udivmodsi4)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o)
+                              obj/Debug/app.o (__divmodsi4)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_negsi2.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o) (__negsi2)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o (exit)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_tablejump2.o)
+                              obj/Debug/app.o (__tablejump2__)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+                              obj/Debug/app.o (__do_copy_data)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+                              obj/Debug/app.o (__do_clear_bss)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_umulhisi3.o)
+                              obj/Debug/GSM.o (__umulhisi3)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                              obj/Debug/ds18b20.o (__fixsfsi)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fixsfsi.o) (__fixunssfsi)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                              obj/Debug/ds18b20.o (__floatsisf)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fixunssfsi.o) (__fp_splitA)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fixunssfsi.o) (__fp_zero)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                              obj/Debug/ds18b20.o (__mulsf3)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3.o) (__mulsf3x)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o) (__fp_inf)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o) (__fp_nan)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o) (__fp_pscA)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o) (__fp_pscB)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_round.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3.o) (__fp_round)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(malloc.o)
+                              obj/Debug/app.o (__brkval)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtoul.o)
+                              obj/Debug/GSM.o (strtoul)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(atoi.o)
+                              obj/Debug/GSM.o (atoi)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(isspace.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtoul.o) (isspace)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memcmp_P.o)
+                              obj/Debug/sms_parse.o (memcmp_P)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strstr_P.o)
+                              obj/Debug/GSM.o (strstr_P)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtok.o)
+                              obj/Debug/GSM.o (strtok)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memcmp.o)
+                              obj/Debug/sms_parse.o (memcmp)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memmove.o)
+                              obj/Debug/GSM.o (memmove)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memset.o)
+                              obj/Debug/sms_parse.o (memset)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strchr.o)
+                              obj/Debug/GSM.o (strchr)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strstr.o)
+                              obj/Debug/GSM.o (strstr)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtok_r.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtok.o) (strtok_r)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+                              obj/Debug/app.o (__itoa_ncheck)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(mul10.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(atoi.o) (__mulhi_const_10)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(itoa_ncheck.o) (__utoa_common)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf.o)
+                              obj/Debug/main.o (sprintf)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf_p.o)
+                              obj/Debug/app.o (sprintf_P)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(vfprintf_std.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf.o) (vfprintf)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(errno.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtoul.o) (errno)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(isspace.o) (__ctype_isfalse)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strnlen_P.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(vfprintf_std.o) (strnlen_P)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memcpy.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memmove.o) (memcpy)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strnlen.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(vfprintf_std.o) (strnlen)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(utoa_ncheck.o) (strrev)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(fputc.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(vfprintf_std.o) (fputc)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(ultoa_invert.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(vfprintf_std.o) (__ultoa_invert)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_block.o)
+                              obj/Debug/eeprom.o (eeprom_read_block)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eeupd_block.o)
+                              obj/Debug/eeprom.o (eeprom_update_block)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eeupd_byte.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eeupd_block.o) (eeprom_update_r18)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_block.o)
+                              obj/Debug/eeprom.o (eeprom_write_block)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_block.o) (eeprom_write_r18)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_mulsi3.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtoul.o) (__mulsi3)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_muluhisi3.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_mulsi3.o) (__muluhisi3)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_prologue.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtoul.o) (__prologue_saves__)
+/home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_epilogue.o)
+                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtoul.o) (__epilogue_restores__)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800060 0x000000000000ffa0 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000003 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+LOAD obj/Debug/18b20.o
+LOAD obj/Debug/app.o
+LOAD obj/Debug/ds18b20.o
+LOAD obj/Debug/eeprom.o
+LOAD obj/Debug/GSM.o
+LOAD obj/Debug/main.o
+LOAD obj/Debug/port.o
+LOAD obj/Debug/sms_parse.o
+LOAD obj/Debug/softuart.o
+LOAD obj/Debug/timer.o
+LOAD obj/Debug/UART.o
+START GROUP
+LOAD /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a
+LOAD /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a
+LOAD /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a
+LOAD /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a
+END GROUP
+                0x0000000000020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x000000000000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x0000000000010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x6418
+ *(.vectors)
+ .vectors       0x0000000000000000       0x68 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000000000000068                . = ALIGN (0x2)
+                0x0000000000000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000068        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem.*)
+ .progmem.data  0x0000000000000068      0x2ad obj/Debug/app.o
+ .progmem.data  0x0000000000000315       0x3a obj/Debug/ds18b20.o
+ .progmem.data  0x000000000000034f       0x11 obj/Debug/eeprom.o
+ .progmem.data  0x0000000000000360      0x272 obj/Debug/GSM.o
+ .progmem.data  0x00000000000005d2       0x1a obj/Debug/main.o
+ .progmem.data  0x00000000000005ec      0x47c obj/Debug/sms_parse.o
+                0x0000000000000a68                . = ALIGN (0x2)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000a68                __ctors_start = .
+ *(.ctors)
+                0x0000000000000a68                __ctors_end = .
+                0x0000000000000a68                __dtors_start = .
+ *(.dtors)
+                0x0000000000000a68                __dtors_end = .
+ SORT_BY_NAME(*)(.ctors)
+ SORT_BY_NAME(*)(.dtors)
+ *(.init0)
+ .init0         0x0000000000000a68        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x0000000000000a68                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000000000000a68        0xc /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000a74       0x16 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+                0x0000000000000a74                __do_copy_data
+ .init4         0x0000000000000a8a       0x10 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+                0x0000000000000a8a                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000000000000a9a        0x8 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x0000000000000aa2        0x4 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x0000000000000aa2                __vector_22
+                0x0000000000000aa2                __vector_1
+                0x0000000000000aa2                __vector_24
+                0x0000000000000aa2                __vector_12
+                0x0000000000000aa2                __bad_interrupt
+                0x0000000000000aa2                __vector_6
+                0x0000000000000aa2                __vector_3
+                0x0000000000000aa2                __vector_23
+                0x0000000000000aa2                __vector_25
+                0x0000000000000aa2                __vector_13
+                0x0000000000000aa2                __vector_17
+                0x0000000000000aa2                __vector_19
+                0x0000000000000aa2                __vector_5
+                0x0000000000000aa2                __vector_4
+                0x0000000000000aa2                __vector_9
+                0x0000000000000aa2                __vector_2
+                0x0000000000000aa2                __vector_15
+                0x0000000000000aa2                __vector_8
+                0x0000000000000aa2                __vector_14
+                0x0000000000000aa2                __vector_10
+                0x0000000000000aa2                __vector_16
+                0x0000000000000aa2                __vector_20
+ .text          0x0000000000000aa6      0x132 obj/Debug/18b20.o
+                0x0000000000000aa6                owire_init
+                0x0000000000000ae0                owire_write
+                0x0000000000000b1c                owire_read_bit
+                0x0000000000000b40                owire_read
+                0x0000000000000b78                get_18x20_temperature
+ .text          0x0000000000000bd8      0xd5a obj/Debug/app.o
+                0x0000000000000bd8                check_guard
+                0x0000000000000fd8                set_flag_alarm
+                0x0000000000000fde                get_flag_alarm
+                0x0000000000000fea                get_time_without_power_s
+                0x0000000000001018                init_internal_temperature
+                0x0000000000001034                analog_read
+                0x00000000000011c0                debug_report
+                0x0000000000001396                power_control
+                0x00000000000015d2                send_sms_report
+                0x000000000000174e                check_temperature_smoke
+                0x000000000000183c                charge_bat
+                0x0000000000001856                __vector_21
+                0x0000000000001858                check_power
+                0x000000000000188c                rst_default
+                0x00000000000018d4                print_ram_free
+ .text          0x0000000000001932      0x702 obj/Debug/ds18b20.o
+                0x0000000000001ad2                init_ds18x20
+                0x0000000000001c64                get_temperature
+ .text          0x0000000000002034      0x228 obj/Debug/eeprom.o
+                0x0000000000002034                EEPROM_write
+                0x0000000000002050                EEPROM_read
+                0x0000000000002062                EEPROM_write_buf
+                0x00000000000020ae                EEPROM_read_buf
+                0x00000000000020fa                eeprom_save_config
+                0x0000000000002120                eeprom_read_config
+                0x0000000000002190                EEPROM_update
+                0x00000000000021a2                set_accept_calls
+                0x00000000000021a8                get_accept_calls
+                0x00000000000021ae                set_accept_sms
+                0x00000000000021b4                get_accept_sms
+                0x00000000000021ba                get_power_report
+                0x00000000000021c0                set_power_report
+                0x00000000000021c6                get_guard
+                0x00000000000021cc                set_guard
+                0x00000000000021d2                set_report_on_guard
+                0x00000000000021d8                get_report_on_guard
+                0x00000000000021de                set_first_m
+                0x00000000000021e4                get_first_m
+                0x00000000000021ea                set_autoguard
+                0x00000000000021f0                get_autoguard
+                0x00000000000021f6                set_interval_after_button_m
+                0x00000000000021fc                get_interval_after_button_m
+                0x0000000000002202                set_reset_count_mcu
+                0x0000000000002208                get_reset_count_mcu
+                0x000000000000220e                inc_reset_count_mcu
+                0x000000000000221a                get_phones
+                0x000000000000222c                set_first_usage
+                0x0000000000002232                get_first_usage
+                0x0000000000002238                set_admin_mode
+                0x000000000000223e                get_admin_mode
+                0x0000000000002244                get_pause_alarm_report_s
+                0x000000000000224a                set_pause_alarm_report_s
+                0x0000000000002250                set_ext_temp
+                0x0000000000002256                get_ext_temp
+ .text          0x000000000000225c     0x194a obj/Debug/GSM.o
+                0x00000000000023e6                map_s
+                0x000000000000241a                get_message_from_mdm
+                0x0000000000002746                mdm_get_signal_strength
+                0x0000000000002b90                send_sms
+                0x0000000000002c6a                send_sms_p
+                0x0000000000002d44                call_to
+                0x0000000000002f30                alarm_play_file
+                0x0000000000002f82                send_sms_admins
+                0x0000000000002fd8                check_phone_string
+                0x0000000000003014                send_unsent_sms
+                0x000000000000320e                delete_all_sms
+                0x0000000000003230                get_sms
+                0x000000000000344e                incoming_call_processing
+                0x0000000000003530                setup_init
+                0x000000000000368a                reset_mcu
+                0x00000000000036c0                check_registration
+                0x000000000000377c                send_USSD
+                0x0000000000003adc                check_deposit
+                0x0000000000003b72                led_gsm
+                0x0000000000003b9a                get_phone_number
+                0x0000000000003ba0                get_arr_dep
+ .text          0x0000000000003ba6      0x17c obj/Debug/main.o
+                0x0000000000003ba6                main
+ .text          0x0000000000003d22      0x2b8 obj/Debug/port.o
+                0x0000000000003d22                port_init
+                0x0000000000003d58                led_management
+                0x0000000000003db4                check_single_sensor
+                0x0000000000003dfe                get_single_motion_detected
+                0x0000000000003e04                is_btn_rst_pressed
+                0x0000000000003e10                check_button
+                0x0000000000003eea                check_door_sensor
+                0x0000000000003f34                get_flag_open_door
+                0x0000000000003f3a                check_ext_mot_sensor
+                0x0000000000003f84                get_flag_ext_mot_sens_detected
+                0x0000000000003f8a                check_smoke_sensor
+                0x0000000000003fd4                get_flag_smoke_sensor
+ .text          0x0000000000003fda      0xb18 obj/Debug/sms_parse.o
+                0x0000000000004102                find_phone_in_phone_list
+                0x0000000000004166                process_sms_body
+                0x0000000000004ad6                set_my_phone
+ .text          0x0000000000004af2      0x14a obj/Debug/softuart.o
+                0x0000000000004af2                __vector_7
+                0x0000000000004b60                softuart_init
+                0x0000000000004b8e                softuart_transmit_busy
+                0x0000000000004b9c                softuart_putchar
+                0x0000000000004bc6                softuart_puts
+                0x0000000000004be6                softuart_puts_ln
+                0x0000000000004c0e                softuart_puts_p
+ .text          0x0000000000004c3c      0x4fc obj/Debug/timer.o
+                0x0000000000004c3c                timer1_init
+                0x0000000000004c74                buzzer_non_block
+                0x0000000000004c8a                buzzer_stop
+                0x0000000000004c9a                beep_non_block
+                0x0000000000004cb0                __vector_11
+                0x0000000000004eca                get_time_ms
+                0x0000000000004f0a                get_time_s
+                0x0000000000004f4a                get_time_m
+                0x0000000000004f8a                reset_soft_wdt
+                0x0000000000004f9a                delay_ms
+                0x0000000000004ff8                delay_s
+                0x0000000000005054                delay_us
+                0x000000000000507a                set_time_from_motion_s
+                0x0000000000005098                get_time_from_motion_s
+                0x00000000000050d8                get_time_from_start_s
+                0x0000000000005118                set_time_from_button_s
+                0x0000000000005128                get_time_from_button_s
+ .text          0x0000000000005138      0x1ae obj/Debug/UART.o
+                0x0000000000005138                init_uart
+                0x0000000000005158                __vector_18
+                0x000000000000519a                get_byte_from_queue
+                0x00000000000051b4                is_queue_not_empty
+                0x00000000000051c6                uart_send_buf
+                0x00000000000051fe                uart_send_str
+                0x000000000000522a                uart_send_byte
+                0x000000000000523a                uart_send_str_p
+                0x0000000000005260                reset_uart_queue
+                0x000000000000526a                uart_flush
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_negsi2.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_tablejump2.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(malloc.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtoul.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(atoi.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(isspace.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memcmp_P.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strstr_P.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtok.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memcmp.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memmove.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memset.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strchr.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strstr.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtok_r.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(mul10.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf_p.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(vfprintf_std.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(errno.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strnlen_P.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memcpy.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strnlen.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(fputc.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(ultoa_invert.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_block.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eeupd_block.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eeupd_byte.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_block.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_mulsi3.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_prologue.o)
+ .text          0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_epilogue.o)
+                0x00000000000052e6                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc.mul
+                0x00000000000052e6        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x00000000000052e6       0x28 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodhi4.o)
+                0x00000000000052e6                __udivmodhi4
+ .text.libgcc   0x000000000000530e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x000000000000530e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x000000000000530e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x000000000000530e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x000000000000530e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x000000000000530e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.div
+                0x000000000000530e       0x28 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodhi4.o)
+                0x000000000000530e                __divmodhi4
+                0x000000000000530e                _div
+ .text.libgcc   0x0000000000005336        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000005336        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000005336        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000005336        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000005336        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000005336        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x0000000000005336       0x44 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodsi4.o)
+                0x0000000000005336                __udivmodsi4
+ .text.libgcc   0x000000000000537a        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x000000000000537a        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x000000000000537a        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x000000000000537a        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x000000000000537a        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x000000000000537a        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.div
+                0x000000000000537a       0x2e /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o)
+                0x000000000000537a                __divmodsi4
+ .text.libgcc   0x00000000000053a8        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000000053a8        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000000053a8        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000000053a8        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000000053a8        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000000053a8        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.div
+                0x00000000000053a8       0x10 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_negsi2.o)
+                0x00000000000053a8                __negsi2
+ .text.libgcc   0x00000000000053b8        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000000053b8        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000000053b8        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000000053b8        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000000053b8        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000000053b8        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000000053b8        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x00000000000053b8        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000000053b8        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000000053b8        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000000053b8        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000000053b8        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000000053b8        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000000053b8        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc   0x00000000000053b8        0xc /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_tablejump2.o)
+                0x00000000000053b8                __tablejump2__
+ .text.libgcc.prologue
+                0x00000000000053c4        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000000053c4        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000000053c4        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000000053c4        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000000053c4        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000000053c4        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000000053c4        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000000053c4        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000000053c4        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000000053c4        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000000053c4        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000000053c4        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000000053c4        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000000053c4        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000000053c4        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000000053c4        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000000053c4        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000000053c4        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000000053c4       0x1e /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_umulhisi3.o)
+                0x00000000000053c4                __umulhisi3
+ .text.libgcc.div
+                0x00000000000053e2        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000000053e2        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000000053e2        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000000053e2        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000000053e2        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000000053e2        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.avr-libc.fplib
+                0x00000000000053e2        0xe /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                0x00000000000053e2                __fixsfsi
+ .text.avr-libc.fplib
+                0x00000000000053f0       0x5e /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                0x00000000000053f0                __fixunssfsi
+ .text.avr-libc.fplib
+                0x000000000000544e       0x7a /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                0x000000000000544e                __floatunsisf
+                0x0000000000005452                __floatsisf
+ .text.avr-libc.fplib
+                0x00000000000054c8       0x44 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+                0x00000000000054c8                __fp_split3
+                0x00000000000054d8                __fp_splitA
+ .text.avr-libc.fplib
+                0x000000000000550c        0xe /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                0x000000000000550c                __fp_zero
+                0x000000000000550e                __fp_szero
+ .text.avr-libc.fplib
+                0x000000000000551a        0x8 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                0x000000000000551a                __mulsf3
+ .text.avr-libc.fplib
+                0x0000000000005522       0xd2 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                0x0000000000005540                __mulsf3x
+                0x0000000000005546                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x00000000000055f4        0xc /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+                0x00000000000055f4                __fp_inf
+ .text.avr-libc.fplib
+                0x0000000000005600        0x6 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+                0x0000000000005600                __fp_nan
+ .text.avr-libc.fplib
+                0x0000000000005606        0xe /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                0x0000000000005606                __fp_pscA
+ .text.avr-libc.fplib
+                0x0000000000005614        0xe /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                0x0000000000005614                __fp_pscB
+ .text.avr-libc.fplib
+                0x0000000000005622       0x22 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_round.o)
+                0x0000000000005622                __fp_round
+ .text.avr-libc
+                0x0000000000005644      0x250 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(malloc.o)
+                0x0000000000005644                malloc
+                0x0000000000005770                free
+ .text.avr-libc
+                0x0000000000005894      0x290 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtoul.o)
+                0x0000000000005894                strtoul
+ .text.avr-libc
+                0x0000000000005b24       0x3c /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(atoi.o)
+                0x0000000000005b24                atoi
+ .text.avr-libc
+                0x0000000000005b60       0x12 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(isspace.o)
+                0x0000000000005b60                isspace
+ .text.avr-libc
+                0x0000000000005b72       0x1a /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memcmp_P.o)
+                0x0000000000005b72                memcmp_P
+ .text.avr-libc
+                0x0000000000005b8c       0x34 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strstr_P.o)
+                0x0000000000005b8c                strstr_P
+ .text.avr-libc
+                0x0000000000005bc0        0xa /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtok.o)
+                0x0000000000005bc0                strtok
+ .text.avr-libc
+                0x0000000000005bca       0x1a /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memcmp.o)
+                0x0000000000005bca                memcmp
+ .text.avr-libc
+                0x0000000000005be4       0x24 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memmove.o)
+                0x0000000000005be4                memmove
+ .text.avr-libc
+                0x0000000000005c08        0xe /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memset.o)
+                0x0000000000005c08                memset
+ .text.avr-libc
+                0x0000000000005c16       0x16 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strchr.o)
+                0x0000000000005c16                strchr
+ .text.avr-libc
+                0x0000000000005c2c       0x34 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strstr.o)
+                0x0000000000005c2c                strstr
+ .text.avr-libc
+                0x0000000000005c60       0x4e /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtok_r.o)
+                0x0000000000005c60                strtok_r
+ .text.avr-libc
+                0x0000000000005cae       0x16 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+                0x0000000000005cae                __itoa_ncheck
+ .text.avr-libc
+                0x0000000000005cc4       0x10 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(mul10.o)
+                0x0000000000005cc4                __mulhi_const_10
+ .text.avr-libc
+                0x0000000000005cd4       0x34 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+                0x0000000000005cd4                __utoa_ncheck
+                0x0000000000005cd6                __utoa_common
+ .text.avr-libc
+                0x0000000000005d08       0x46 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf.o)
+                0x0000000000005d08                sprintf
+ .text.avr-libc
+                0x0000000000005d4e       0x46 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf_p.o)
+                0x0000000000005d4e                sprintf_P
+ .text.avr-libc
+                0x0000000000005d94      0x3a6 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(vfprintf_std.o)
+                0x0000000000005d94                vfprintf
+ .text.avr-libc
+                0x000000000000613a        0x6 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+                0x000000000000613a                __ctype_isfalse
+                0x000000000000613e                __ctype_istrue
+ .text.avr-libc
+                0x0000000000006140       0x16 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strnlen_P.o)
+                0x0000000000006140                strnlen_P
+ .text.avr-libc
+                0x0000000000006156       0x12 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memcpy.o)
+                0x0000000000006156                memcpy
+ .text.avr-libc
+                0x0000000000006168       0x16 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strnlen.o)
+                0x0000000000006168                strnlen
+ .text.avr-libc
+                0x000000000000617e       0x20 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+                0x000000000000617e                strrev
+ .text.avr-libc
+                0x000000000000619e       0x60 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(fputc.o)
+                0x000000000000619e                fputc
+ .text.avr-libc
+                0x00000000000061fe       0xbc /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(ultoa_invert.o)
+                0x00000000000061fe                __ultoa_invert
+ .text.avr-libc
+                0x00000000000062ba       0x20 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_block.o)
+                0x00000000000062ba                eeprom_read_block
+                0x00000000000062be                eeprom_read_blraw
+ .text.avr-libc
+                0x00000000000062da       0x20 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eeupd_block.o)
+                0x00000000000062da                eeprom_update_block
+ .text.avr-libc
+                0x00000000000062fa       0x24 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eeupd_byte.o)
+                0x00000000000062fa                eeprom_update_byte
+                0x00000000000062fc                eeprom_update_r18
+ .text.avr-libc
+                0x000000000000631e       0x14 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_block.o)
+                0x000000000000631e                eeprom_write_block
+ .text.avr-libc
+                0x0000000000006332       0x1c /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+                0x0000000000006332                eeprom_write_byte
+                0x0000000000006334                eeprom_write_r18
+ .text.libgcc.mul
+                0x000000000000634e       0x20 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_mulsi3.o)
+                0x000000000000634e                __mulsi3
+ .text.libgcc.div
+                0x000000000000636e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc   0x000000000000636e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x000000000000636e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x000000000000636e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x000000000000636e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x000000000000636e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.mul
+                0x000000000000636e       0x16 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_muluhisi3.o)
+                0x000000000000636e                __muluhisi3
+ .text.libgcc.div
+                0x0000000000006384        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x0000000000006384        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000006384        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000006384        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000006384        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000006384        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.mul
+                0x0000000000006384        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x0000000000006384        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc   0x0000000000006384        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.prologue
+                0x0000000000006384       0x38 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_prologue.o)
+                0x0000000000006384                __prologue_saves__
+ .text.libgcc.builtins
+                0x00000000000063bc        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x00000000000063bc        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x00000000000063bc        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x00000000000063bc        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x00000000000063bc        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000000063bc        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.prologue
+                0x00000000000063bc       0x36 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_epilogue.o)
+                0x00000000000063bc                __epilogue_restores__
+ .text.libgcc.builtins
+                0x00000000000063f2        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00000000000063f2        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x00000000000063f2        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_epilogue.o)
+                0x00000000000063f2                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000000000063f2        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+                0x00000000000063f2                exit
+                0x00000000000063f2                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000000000063f2        0x4 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+ *(.progmemx.*)
+                0x00000000000063f6                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ .jumptables.gcc.analog_read
+                0x00000000000063f6       0x12 obj/Debug/app.o
+ .jumptables.gcc.call_status
+                0x0000000000006408       0x10 obj/Debug/GSM.o
+                0x0000000000006418                _etext = .
+
+.data           0x0000000000800100       0xdc load address 0x0000000000006418
+                0x0000000000800100                PROVIDE (__data_start = .)
+ *(.data)
+ .data          0x0000000000800100        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .data          0x0000000000800100        0x0 obj/Debug/18b20.o
+ .data          0x0000000000800100        0x2 obj/Debug/app.o
+ .data          0x0000000000800102        0x0 obj/Debug/ds18b20.o
+ .data          0x0000000000800102        0x0 obj/Debug/eeprom.o
+ .data          0x0000000000800102        0x1 obj/Debug/GSM.o
+ .data          0x0000000000800103        0x0 obj/Debug/main.o
+ .data          0x0000000000800103        0x0 obj/Debug/port.o
+ .data          0x0000000000800103        0x0 obj/Debug/sms_parse.o
+ .data          0x0000000000800103        0x0 obj/Debug/softuart.o
+ .data          0x0000000000800103        0x2 obj/Debug/timer.o
+ .data          0x0000000000800105        0x0 obj/Debug/UART.o
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_negsi2.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_tablejump2.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .data          0x0000000000800105        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .data          0x0000000000800105        0x6 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(malloc.o)
+                0x0000000000800105                __malloc_heap_end
+                0x0000000000800107                __malloc_heap_start
+                0x0000000000800109                __malloc_margin
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtoul.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(atoi.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(isspace.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memcmp_P.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strstr_P.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtok.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memcmp.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memmove.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memset.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strchr.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strstr.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtok_r.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(mul10.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf_p.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(vfprintf_std.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(errno.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strnlen_P.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memcpy.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strnlen.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(fputc.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(ultoa_invert.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_block.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eeupd_block.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eeupd_byte.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_block.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_mulsi3.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_prologue.o)
+ .data          0x000000000080010b        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_epilogue.o)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x000000000080010b       0x39 obj/Debug/app.o
+ .rodata.str1.1
+                0x0000000000800144        0xe obj/Debug/eeprom.o
+ .rodata.str1.1
+                0x0000000000800152       0x66 obj/Debug/GSM.o
+                                         0x72 (size before relaxing)
+ .rodata.str1.1
+                0x00000000008001b8       0x11 obj/Debug/main.o
+ .rodata.str1.1
+                0x00000000008001c9        0xf obj/Debug/sms_parse.o
+ .rodata.str1.1
+                0x00000000008001d8        0x3 obj/Debug/softuart.o
+ *(.gnu.linkonce.r*)
+                0x00000000008001dc                . = ALIGN (0x2)
+ *fill*         0x00000000008001db        0x1 
+                0x00000000008001dc                _edata = .
+                0x00000000008001dc                PROVIDE (__data_end = .)
+
+.bss            0x00000000008001dc      0x2c4
+                0x00000000008001dc                PROVIDE (__bss_start = .)
+ *(.bss)
+ .bss           0x00000000008001dc        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .bss           0x00000000008001dc        0x0 obj/Debug/18b20.o
+ .bss           0x00000000008001dc       0x21 obj/Debug/app.o
+ .bss           0x00000000008001fd       0x16 obj/Debug/ds18b20.o
+ .bss           0x0000000000800213       0x57 obj/Debug/eeprom.o
+ .bss           0x000000000080026a      0x173 obj/Debug/GSM.o
+ .bss           0x00000000008003dd        0x0 obj/Debug/main.o
+ .bss           0x00000000008003dd       0x13 obj/Debug/port.o
+ .bss           0x00000000008003f0        0x0 obj/Debug/sms_parse.o
+ .bss           0x00000000008003f0        0x5 obj/Debug/softuart.o
+ .bss           0x00000000008003f5       0x21 obj/Debug/timer.o
+ .bss           0x0000000000800416       0x82 obj/Debug/UART.o
+                0x0000000000800416                tail
+                0x0000000000800417                head
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_negsi2.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_tablejump2.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .bss           0x0000000000800498        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .bss           0x0000000000800498        0x4 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(malloc.o)
+                0x0000000000800498                __flp
+                0x000000000080049a                __brkval
+ .bss           0x000000000080049c        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtoul.o)
+ .bss           0x000000000080049c        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(atoi.o)
+ .bss           0x000000000080049c        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(isspace.o)
+ .bss           0x000000000080049c        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memcmp_P.o)
+ .bss           0x000000000080049c        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strstr_P.o)
+ .bss           0x000000000080049c        0x2 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtok.o)
+ .bss           0x000000000080049e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memcmp.o)
+ .bss           0x000000000080049e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memmove.o)
+ .bss           0x000000000080049e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memset.o)
+ .bss           0x000000000080049e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strchr.o)
+ .bss           0x000000000080049e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strstr.o)
+ .bss           0x000000000080049e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtok_r.o)
+ .bss           0x000000000080049e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+ .bss           0x000000000080049e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(mul10.o)
+ .bss           0x000000000080049e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+ .bss           0x000000000080049e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf.o)
+ .bss           0x000000000080049e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf_p.o)
+ .bss           0x000000000080049e        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(vfprintf_std.o)
+ .bss           0x000000000080049e        0x2 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(errno.o)
+                0x000000000080049e                errno
+ .bss           0x00000000008004a0        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .bss           0x00000000008004a0        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strnlen_P.o)
+ .bss           0x00000000008004a0        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memcpy.o)
+ .bss           0x00000000008004a0        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strnlen.o)
+ .bss           0x00000000008004a0        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .bss           0x00000000008004a0        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(fputc.o)
+ .bss           0x00000000008004a0        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(ultoa_invert.o)
+ .bss           0x00000000008004a0        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_block.o)
+ .bss           0x00000000008004a0        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eeupd_block.o)
+ .bss           0x00000000008004a0        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eeupd_byte.o)
+ .bss           0x00000000008004a0        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_block.o)
+ .bss           0x00000000008004a0        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+ .bss           0x00000000008004a0        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_mulsi3.o)
+ .bss           0x00000000008004a0        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .bss           0x00000000008004a0        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_prologue.o)
+ .bss           0x00000000008004a0        0x0 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_epilogue.o)
+ *(.bss*)
+ *(COMMON)
+                0x00000000008004a0                PROVIDE (__bss_end = .)
+                0x0000000000006418                __data_load_start = LOADADDR (.data)
+                0x00000000000064f4                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00000000008004a0        0x0
+                [!provide]                        PROVIDE (__noinit_start = .)
+ *(.noinit .noinit.* .gnu.linkonce.n.*)
+                [!provide]                        PROVIDE (__noinit_end = .)
+                0x00000000008004a0                _end = .
+                0x00000000008004a0                PROVIDE (__heap_start = .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x12
+ *(.comment)
+ .comment       0x0000000000000000       0x12 obj/Debug/18b20.o
+                                         0x13 (size before relaxing)
+ .comment       0x0000000000000012       0x13 obj/Debug/app.o
+ .comment       0x0000000000000012       0x13 obj/Debug/ds18b20.o
+ .comment       0x0000000000000012       0x13 obj/Debug/eeprom.o
+ .comment       0x0000000000000012       0x13 obj/Debug/GSM.o
+ .comment       0x0000000000000012       0x13 obj/Debug/main.o
+ .comment       0x0000000000000012       0x13 obj/Debug/port.o
+ .comment       0x0000000000000012       0x13 obj/Debug/sms_parse.o
+ .comment       0x0000000000000012       0x13 obj/Debug/softuart.o
+ .comment       0x0000000000000012       0x13 obj/Debug/timer.o
+ .comment       0x0000000000000012       0x13 obj/Debug/UART.o
+ .comment       0x0000000000000012       0x13 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(malloc.o)
+ .comment       0x0000000000000012       0x13 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtoul.o)
+ .comment       0x0000000000000012       0x13 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtok.o)
+ .comment       0x0000000000000012       0x13 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf.o)
+ .comment       0x0000000000000012       0x13 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf_p.o)
+ .comment       0x0000000000000012       0x13 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(vfprintf_std.o)
+ .comment       0x0000000000000012       0x13 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(errno.o)
+ .comment       0x0000000000000012       0x13 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(fputc.o)
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x320
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/18b20.o
+ .debug_aranges
+                0x0000000000000020       0x20 obj/Debug/app.o
+ .debug_aranges
+                0x0000000000000040       0x20 obj/Debug/ds18b20.o
+ .debug_aranges
+                0x0000000000000060       0x20 obj/Debug/eeprom.o
+ .debug_aranges
+                0x0000000000000080       0x20 obj/Debug/GSM.o
+ .debug_aranges
+                0x00000000000000a0       0x20 obj/Debug/main.o
+ .debug_aranges
+                0x00000000000000c0       0x20 obj/Debug/port.o
+ .debug_aranges
+                0x00000000000000e0       0x20 obj/Debug/sms_parse.o
+ .debug_aranges
+                0x0000000000000100       0x20 obj/Debug/softuart.o
+ .debug_aranges
+                0x0000000000000120       0x20 obj/Debug/timer.o
+ .debug_aranges
+                0x0000000000000140       0x20 obj/Debug/UART.o
+ .debug_aranges
+                0x0000000000000160       0x20 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_aranges
+                0x0000000000000180       0x20 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_aranges
+                0x00000000000001c0       0x20 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .debug_aranges
+                0x00000000000001e0       0x20 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_negsi2.o)
+ .debug_aranges
+                0x0000000000000200       0x20 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+ .debug_aranges
+                0x0000000000000220       0x20 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_tablejump2.o)
+ .debug_aranges
+                0x0000000000000240       0x20 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x0000000000000260       0x20 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_aranges
+                0x0000000000000280       0x20 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .debug_aranges
+                0x00000000000002a0       0x20 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_mulsi3.o)
+ .debug_aranges
+                0x00000000000002c0       0x20 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .debug_aranges
+                0x00000000000002e0       0x20 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_prologue.o)
+ .debug_aranges
+                0x0000000000000300       0x20 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_epilogue.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0xa19e
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x5f4 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_info    0x00000000000005f4      0x520 obj/Debug/18b20.o
+ .debug_info    0x0000000000000b14     0x1afe obj/Debug/app.o
+ .debug_info    0x0000000000002612      0xe1f obj/Debug/ds18b20.o
+ .debug_info    0x0000000000003431      0x7f5 obj/Debug/eeprom.o
+ .debug_info    0x0000000000003c26     0x305f obj/Debug/GSM.o
+ .debug_info    0x0000000000006c85      0x53d obj/Debug/main.o
+ .debug_info    0x00000000000071c2      0x53b obj/Debug/port.o
+ .debug_info    0x00000000000076fd     0x1c14 obj/Debug/sms_parse.o
+ .debug_info    0x0000000000009311      0x2b8 obj/Debug/softuart.o
+ .debug_info    0x00000000000095c9      0x71e obj/Debug/timer.o
+ .debug_info    0x0000000000009ce7      0x2bf obj/Debug/UART.o
+ .debug_info    0x0000000000009fa6       0x24 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_info    0x0000000000009fca       0x24 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .debug_info    0x0000000000009fee       0x24 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_info    0x000000000000a012       0x24 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .debug_info    0x000000000000a036       0x24 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_negsi2.o)
+ .debug_info    0x000000000000a05a       0x24 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+ .debug_info    0x000000000000a07e       0x24 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_tablejump2.o)
+ .debug_info    0x000000000000a0a2       0x24 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+ .debug_info    0x000000000000a0c6       0x24 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_info    0x000000000000a0ea       0x24 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .debug_info    0x000000000000a10e       0x24 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_mulsi3.o)
+ .debug_info    0x000000000000a132       0x24 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .debug_info    0x000000000000a156       0x24 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_prologue.o)
+ .debug_info    0x000000000000a17a       0x24 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_epilogue.o)
+
+.debug_abbrev   0x0000000000000000     0x2382
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x5a2 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_abbrev  0x00000000000005a2      0x1d7 obj/Debug/18b20.o
+ .debug_abbrev  0x0000000000000779      0x453 obj/Debug/app.o
+ .debug_abbrev  0x0000000000000bcc      0x3bb obj/Debug/ds18b20.o
+ .debug_abbrev  0x0000000000000f87      0x23a obj/Debug/eeprom.o
+ .debug_abbrev  0x00000000000011c1      0x3e4 obj/Debug/GSM.o
+ .debug_abbrev  0x00000000000015a5      0x179 obj/Debug/main.o
+ .debug_abbrev  0x000000000000171e      0x21e obj/Debug/port.o
+ .debug_abbrev  0x000000000000193c      0x305 obj/Debug/sms_parse.o
+ .debug_abbrev  0x0000000000001c41      0x1ca obj/Debug/softuart.o
+ .debug_abbrev  0x0000000000001e0b      0x2da obj/Debug/timer.o
+ .debug_abbrev  0x00000000000020e5      0x185 obj/Debug/UART.o
+ .debug_abbrev  0x000000000000226a       0x14 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_abbrev  0x000000000000227e       0x14 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .debug_abbrev  0x0000000000002292       0x14 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_abbrev  0x00000000000022a6       0x14 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .debug_abbrev  0x00000000000022ba       0x14 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_negsi2.o)
+ .debug_abbrev  0x00000000000022ce       0x14 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+ .debug_abbrev  0x00000000000022e2       0x14 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_tablejump2.o)
+ .debug_abbrev  0x00000000000022f6       0x14 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+ .debug_abbrev  0x000000000000230a       0x14 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_abbrev  0x000000000000231e       0x14 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .debug_abbrev  0x0000000000002332       0x14 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_mulsi3.o)
+ .debug_abbrev  0x0000000000002346       0x14 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .debug_abbrev  0x000000000000235a       0x14 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_prologue.o)
+ .debug_abbrev  0x000000000000236e       0x14 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_epilogue.o)
+
+.debug_line     0x0000000000000000     0xa166
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0x1d /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_line    0x000000000000001d      0x6de obj/Debug/18b20.o
+ .debug_line    0x00000000000006fb     0x18e9 obj/Debug/app.o
+ .debug_line    0x0000000000001fe4      0xdb0 obj/Debug/ds18b20.o
+ .debug_line    0x0000000000002d94      0x674 obj/Debug/eeprom.o
+ .debug_line    0x0000000000003408     0x2fde obj/Debug/GSM.o
+ .debug_line    0x00000000000063e6      0x26d obj/Debug/main.o
+ .debug_line    0x0000000000006653      0x9f2 obj/Debug/port.o
+ .debug_line    0x0000000000007045     0x174d obj/Debug/sms_parse.o
+ .debug_line    0x0000000000008792      0x407 obj/Debug/softuart.o
+ .debug_line    0x0000000000008b99      0x81c obj/Debug/timer.o
+ .debug_line    0x00000000000093b5      0x4d5 obj/Debug/UART.o
+ .debug_line    0x000000000000988a       0xbd /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_line    0x0000000000009947       0xb7 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .debug_line    0x00000000000099fe      0x111 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_line    0x0000000000009b0f       0xbd /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .debug_line    0x0000000000009bcc       0x51 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_negsi2.o)
+ .debug_line    0x0000000000009c1d       0x51 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+ .debug_line    0x0000000000009c6e       0x69 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_tablejump2.o)
+ .debug_line    0x0000000000009cd7       0x87 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+ .debug_line    0x0000000000009d5e       0x75 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_line    0x0000000000009dd3       0x9f /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .debug_line    0x0000000000009e72       0x9f /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_mulsi3.o)
+ .debug_line    0x0000000000009f11       0x81 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .debug_line    0x0000000000009f92       0xed /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_prologue.o)
+ .debug_line    0x000000000000a07f       0xe7 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_epilogue.o)
+
+.debug_frame    0x0000000000000000     0x1134
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x84 obj/Debug/18b20.o
+ .debug_frame   0x0000000000000084      0x210 obj/Debug/app.o
+ .debug_frame   0x0000000000000294      0x108 obj/Debug/ds18b20.o
+ .debug_frame   0x000000000000039c      0x294 obj/Debug/eeprom.o
+ .debug_frame   0x0000000000000630      0x538 obj/Debug/GSM.o
+ .debug_frame   0x0000000000000b68       0x2c obj/Debug/main.o
+ .debug_frame   0x0000000000000b94       0xd4 obj/Debug/port.o
+ .debug_frame   0x0000000000000c68      0x100 obj/Debug/sms_parse.o
+ .debug_frame   0x0000000000000d68       0xb0 obj/Debug/softuart.o
+ .debug_frame   0x0000000000000e18      0x204 obj/Debug/timer.o
+ .debug_frame   0x000000000000101c      0x118 obj/Debug/UART.o
+
+.debug_str      0x0000000000000000     0x141e
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x20b /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_str     0x000000000000020b      0x136 obj/Debug/18b20.o
+                                        0x187 (size before relaxing)
+ .debug_str     0x0000000000000341      0x54f obj/Debug/app.o
+                                        0x67f (size before relaxing)
+ .debug_str     0x0000000000000890      0x1d8 obj/Debug/ds18b20.o
+                                        0x37c (size before relaxing)
+ .debug_str     0x0000000000000a68      0x1cf obj/Debug/eeprom.o
+                                        0x4ce (size before relaxing)
+ .debug_str     0x0000000000000c37      0x3e4 obj/Debug/GSM.o
+                                        0x65f (size before relaxing)
+ .debug_str     0x000000000000101b       0x4c obj/Debug/main.o
+                                        0x2d4 (size before relaxing)
+ .debug_str     0x0000000000001067      0x15d obj/Debug/port.o
+                                        0x3a4 (size before relaxing)
+ .debug_str     0x00000000000011c4       0x88 obj/Debug/sms_parse.o
+                                        0x3d0 (size before relaxing)
+ .debug_str     0x000000000000124c       0xb7 obj/Debug/softuart.o
+                                        0x1d5 (size before relaxing)
+ .debug_str     0x0000000000001303       0x8d obj/Debug/timer.o
+                                        0x3cd (size before relaxing)
+ .debug_str     0x0000000000001390       0x4b obj/Debug/UART.o
+                                        0x1d1 (size before relaxing)
+ .debug_str     0x00000000000013db       0x43 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_str     0x000000000000141e       0x43 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .debug_str     0x000000000000141e       0x43 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_str     0x000000000000141e       0x43 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .debug_str     0x000000000000141e       0x43 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_negsi2.o)
+ .debug_str     0x000000000000141e       0x43 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+ .debug_str     0x000000000000141e       0x43 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_tablejump2.o)
+ .debug_str     0x000000000000141e       0x43 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+ .debug_str     0x000000000000141e       0x43 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_str     0x000000000000141e       0x43 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .debug_str     0x000000000000141e       0x43 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_mulsi3.o)
+ .debug_str     0x000000000000141e       0x43 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .debug_str     0x000000000000141e       0x43 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_prologue.o)
+ .debug_str     0x000000000000141e       0x43 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_epilogue.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x0000000000000000      0x244
+ *(.debug_line_str)
+ .debug_line_str
+                0x0000000000000000       0xbb obj/Debug/18b20.o
+                                        0x105 (size before relaxing)
+ .debug_line_str
+                0x00000000000000bb       0x4a obj/Debug/app.o
+                                         0xf9 (size before relaxing)
+ .debug_line_str
+                0x0000000000000105       0x12 obj/Debug/ds18b20.o
+                                        0x130 (size before relaxing)
+ .debug_line_str
+                0x0000000000000117       0x9a obj/Debug/eeprom.o
+                                        0x174 (size before relaxing)
+ .debug_line_str
+                0x00000000000001b1       0x2a obj/Debug/GSM.o
+                                        0x197 (size before relaxing)
+ .debug_line_str
+                0x00000000000001db        0x7 obj/Debug/main.o
+                                        0x100 (size before relaxing)
+ .debug_line_str
+                0x00000000000001e2        0x7 obj/Debug/port.o
+                                         0xd5 (size before relaxing)
+ .debug_line_str
+                0x00000000000001e9       0x17 obj/Debug/sms_parse.o
+                                        0x1a7 (size before relaxing)
+ .debug_line_str
+                0x0000000000000200        0xb obj/Debug/softuart.o
+                                         0xc4 (size before relaxing)
+ .debug_line_str
+                0x000000000000020b        0x8 obj/Debug/timer.o
+                                        0x119 (size before relaxing)
+ .debug_line_str
+                0x0000000000000213        0x7 obj/Debug/UART.o
+                                         0xc0 (size before relaxing)
+ .debug_line_str
+                0x000000000000021a       0x2a /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodhi4.o)
+                                         0x54 (size before relaxing)
+ .debug_line_str
+                0x0000000000000244       0x54 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .debug_line_str
+                0x0000000000000244       0x54 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_line_str
+                0x0000000000000244       0x54 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .debug_line_str
+                0x0000000000000244       0x54 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_negsi2.o)
+ .debug_line_str
+                0x0000000000000244       0x54 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+ .debug_line_str
+                0x0000000000000244       0x54 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_tablejump2.o)
+ .debug_line_str
+                0x0000000000000244       0x54 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+ .debug_line_str
+                0x0000000000000244       0x54 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_line_str
+                0x0000000000000244       0x54 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .debug_line_str
+                0x0000000000000244       0x54 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_mulsi3.o)
+ .debug_line_str
+                0x0000000000000244       0x54 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .debug_line_str
+                0x0000000000000244       0x54 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_prologue.o)
+ .debug_line_str
+                0x0000000000000244       0x54 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_epilogue.o)
+
+.debug_loclists
+                0x0000000000000000     0x2531
+ *(.debug_loclists)
+ .debug_loclists
+                0x0000000000000000      0x2de obj/Debug/18b20.o
+ .debug_loclists
+                0x00000000000002de      0x2d7 obj/Debug/app.o
+ .debug_loclists
+                0x00000000000005b5      0x5bd obj/Debug/ds18b20.o
+ .debug_loclists
+                0x0000000000000b72      0x20c obj/Debug/eeprom.o
+ .debug_loclists
+                0x0000000000000d7e      0xd13 obj/Debug/GSM.o
+ .debug_loclists
+                0x0000000000001a91       0x49 obj/Debug/main.o
+ .debug_loclists
+                0x0000000000001ada      0x5f6 obj/Debug/sms_parse.o
+ .debug_loclists
+                0x00000000000020d0      0x160 obj/Debug/softuart.o
+ .debug_loclists
+                0x0000000000002230      0x1a0 obj/Debug/timer.o
+ .debug_loclists
+                0x00000000000023d0      0x161 obj/Debug/UART.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x0000000000000000      0x2b8
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x0000000000000000       0x13 obj/Debug/18b20.o
+ .debug_rnglists
+                0x0000000000000013       0xa6 obj/Debug/app.o
+ .debug_rnglists
+                0x00000000000000b9       0x88 obj/Debug/ds18b20.o
+ .debug_rnglists
+                0x0000000000000141       0x8f obj/Debug/GSM.o
+ .debug_rnglists
+                0x00000000000001d0       0x17 obj/Debug/main.o
+ .debug_rnglists
+                0x00000000000001e7       0x81 obj/Debug/sms_parse.o
+ .debug_rnglists
+                0x0000000000000268       0x17 obj/Debug/softuart.o
+ .debug_rnglists
+                0x000000000000027f       0x22 obj/Debug/timer.o
+ .debug_rnglists
+                0x00000000000002a1       0x17 obj/Debug/UART.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+OUTPUT(bin/Debug/analog_test.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+EEPROM_read                                       obj/Debug/eeprom.o
+EEPROM_read_buf                                   obj/Debug/eeprom.o
+EEPROM_update                                     obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/port.o
+                                                  obj/Debug/GSM.o
+                                                  obj/Debug/app.o
+EEPROM_write                                      obj/Debug/eeprom.o
+EEPROM_write_buf                                  obj/Debug/eeprom.o
+__FUSE_REGION_LENGTH__                            /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__bad_interrupt                                   /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__brkval                                          /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  obj/Debug/app.o
+__bss_end                                         /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+__bss_start                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+__ctype_isfalse                                   /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(isspace.o)
+__ctype_istrue                                    /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+__data_end                                        /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+__data_load_start                                 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+__data_start                                      /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+__divmodhi4                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodhi4.o)
+                                                  obj/Debug/18b20.o
+__divmodsi4                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o)
+                                                  obj/Debug/app.o
+__do_clear_bss                                    /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_clear_bss.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(errno.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtok.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  obj/Debug/UART.o
+                                                  obj/Debug/timer.o
+                                                  obj/Debug/softuart.o
+                                                  obj/Debug/port.o
+                                                  obj/Debug/GSM.o
+                                                  obj/Debug/eeprom.o
+                                                  obj/Debug/ds18b20.o
+                                                  obj/Debug/app.o
+__do_copy_data                                    /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_copy_data.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  obj/Debug/timer.o
+                                                  obj/Debug/softuart.o
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/main.o
+                                                  obj/Debug/GSM.o
+                                                  obj/Debug/eeprom.o
+                                                  obj/Debug/app.o
+__epilogue_restores__                             /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_epilogue.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(vfprintf_std.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf_p.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtoul.o)
+__fixsfsi                                         /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  obj/Debug/ds18b20.o
+__fixunssfsi                                      /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+__floatsisf                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                                  obj/Debug/ds18b20.o
+__floatunsisf                                     /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+__flp                                             /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(malloc.o)
+__fp_inf                                          /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__fp_nan                                          /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__fp_pscA                                         /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__fp_pscB                                         /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__fp_round                                        /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_round.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+__fp_split3                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__fp_splitA                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+__fp_szero                                        /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+__fp_zero                                         /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+__heap_end                                        /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(malloc.o)
+__heap_start                                      /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  obj/Debug/app.o
+__init                                            /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__itoa_ncheck                                     /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+                                                  obj/Debug/app.o
+__malloc_heap_end                                 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(malloc.o)
+__malloc_heap_start                               /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(malloc.o)
+__malloc_margin                                   /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(malloc.o)
+__mulhi_const_10                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(mul10.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(atoi.o)
+__mulsf3                                          /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  obj/Debug/ds18b20.o
+__mulsf3_pse                                      /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__mulsf3x                                         /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+__mulsi3                                          /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_mulsi3.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtoul.o)
+__muluhisi3                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_muluhisi3.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_mulsi3.o)
+__negsi2                                          /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_negsi2.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o)
+__prologue_saves__                                /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_prologue.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(vfprintf_std.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf_p.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtoul.o)
+__stack                                           /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__tablejump2__                                    /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_tablejump2.o)
+                                                  obj/Debug/GSM.o
+                                                  obj/Debug/app.o
+__udivmodhi4                                      /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodhi4.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodhi4.o)
+                                                  obj/Debug/GSM.o
+__udivmodsi4                                      /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_udivmodsi4.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtoul.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodsi4.o)
+                                                  obj/Debug/app.o
+__ultoa_invert                                    /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(ultoa_invert.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(vfprintf_std.o)
+__umulhisi3                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_umulhisi3.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_muluhisi3.o)
+                                                  obj/Debug/GSM.o
+__utoa_common                                     /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+__utoa_ncheck                                     /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+__vector_1                                        /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_10                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_11                                       obj/Debug/timer.o
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_12                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_13                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_14                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_15                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_16                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_17                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_18                                       obj/Debug/UART.o
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_19                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_2                                        /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_20                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_21                                       obj/Debug/app.o
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_22                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_23                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_24                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_25                                       /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_3                                        /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_4                                        /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_5                                        /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_6                                        /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_7                                        obj/Debug/softuart.o
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_8                                        /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_9                                        /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_default                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vectors                                         /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+_div                                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_divmodhi4.o)
+_exit                                             /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+alarm_play_file                                   obj/Debug/GSM.o
+                                                  obj/Debug/app.o
+analog_read                                       obj/Debug/app.o
+                                                  obj/Debug/main.o
+atoi                                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(atoi.o)
+                                                  obj/Debug/GSM.o
+beep_non_block                                    obj/Debug/timer.o
+                                                  obj/Debug/port.o
+                                                  obj/Debug/main.o
+                                                  obj/Debug/app.o
+buzzer_non_block                                  obj/Debug/timer.o
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/app.o
+buzzer_stop                                       obj/Debug/timer.o
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/port.o
+                                                  obj/Debug/GSM.o
+call_to                                           obj/Debug/GSM.o
+charge_bat                                        obj/Debug/app.o
+                                                  obj/Debug/main.o
+check_button                                      obj/Debug/port.o
+                                                  obj/Debug/timer.o
+check_deposit                                     obj/Debug/GSM.o
+                                                  obj/Debug/main.o
+check_door_sensor                                 obj/Debug/port.o
+                                                  obj/Debug/timer.o
+check_ext_mot_sensor                              obj/Debug/port.o
+                                                  obj/Debug/timer.o
+check_guard                                       obj/Debug/app.o
+                                                  obj/Debug/main.o
+check_phone_string                                obj/Debug/GSM.o
+                                                  obj/Debug/sms_parse.o
+check_power                                       obj/Debug/app.o
+                                                  obj/Debug/timer.o
+check_registration                                obj/Debug/GSM.o
+                                                  obj/Debug/main.o
+check_single_sensor                               obj/Debug/port.o
+                                                  obj/Debug/timer.o
+check_smoke_sensor                                obj/Debug/port.o
+                                                  obj/Debug/timer.o
+check_temperature_smoke                           obj/Debug/app.o
+                                                  obj/Debug/main.o
+debug_report                                      obj/Debug/app.o
+delay_ms                                          obj/Debug/timer.o
+                                                  obj/Debug/main.o
+                                                  obj/Debug/GSM.o
+                                                  obj/Debug/ds18b20.o
+                                                  obj/Debug/app.o
+delay_s                                           obj/Debug/timer.o
+                                                  obj/Debug/GSM.o
+                                                  obj/Debug/app.o
+delay_us                                          obj/Debug/timer.o
+delete_all_sms                                    obj/Debug/GSM.o
+                                                  obj/Debug/main.o
+eeprom_read_block                                 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_block.o)
+                                                  obj/Debug/eeprom.o
+eeprom_read_blraw                                 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_block.o)
+eeprom_read_config                                obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/main.o
+eeprom_save_config                                obj/Debug/eeprom.o
+eeprom_update_block                               /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eeupd_block.o)
+                                                  obj/Debug/eeprom.o
+eeprom_update_byte                                /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eeupd_byte.o)
+eeprom_update_r18                                 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eeupd_byte.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eeupd_block.o)
+eeprom_write_block                                /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_block.o)
+                                                  obj/Debug/eeprom.o
+eeprom_write_byte                                 /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+eeprom_write_r18                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_block.o)
+errno                                             /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(errno.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtoul.o)
+exit                                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/avr5/libgcc.a(_exit.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+find_phone_in_phone_list                          obj/Debug/sms_parse.o
+                                                  obj/Debug/GSM.o
+fputc                                             /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(fputc.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(vfprintf_std.o)
+free                                              /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(malloc.o)
+get_18x20_temperature                             obj/Debug/18b20.o
+get_accept_calls                                  obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/app.o
+get_accept_sms                                    obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/app.o
+get_admin_mode                                    obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+get_arr_dep                                       obj/Debug/GSM.o
+                                                  obj/Debug/app.o
+get_autoguard                                     obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/app.o
+get_byte_from_queue                               obj/Debug/UART.o
+                                                  obj/Debug/GSM.o
+get_ext_temp                                      obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/main.o
+                                                  obj/Debug/app.o
+get_first_m                                       obj/Debug/eeprom.o
+                                                  obj/Debug/app.o
+get_first_usage                                   obj/Debug/eeprom.o
+get_flag_alarm                                    obj/Debug/app.o
+                                                  obj/Debug/GSM.o
+get_flag_ext_mot_sens_detected                    obj/Debug/port.o
+                                                  obj/Debug/app.o
+get_flag_open_door                                obj/Debug/port.o
+                                                  obj/Debug/app.o
+get_flag_smoke_sensor                             obj/Debug/port.o
+                                                  obj/Debug/app.o
+get_guard                                         obj/Debug/eeprom.o
+                                                  obj/Debug/port.o
+                                                  obj/Debug/GSM.o
+                                                  obj/Debug/app.o
+get_interval_after_button_m                       obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/app.o
+get_message_from_mdm                              obj/Debug/GSM.o
+                                                  obj/Debug/timer.o
+                                                  obj/Debug/main.o
+get_pause_alarm_report_s                          obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/app.o
+get_phone_number                                  obj/Debug/GSM.o
+                                                  obj/Debug/sms_parse.o
+get_phones                                        obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/GSM.o
+get_power_report                                  obj/Debug/eeprom.o
+                                                  obj/Debug/app.o
+get_report_on_guard                               obj/Debug/eeprom.o
+                                                  obj/Debug/app.o
+get_reset_count_mcu                               obj/Debug/eeprom.o
+                                                  obj/Debug/GSM.o
+                                                  obj/Debug/app.o
+get_single_motion_detected                        obj/Debug/port.o
+                                                  obj/Debug/app.o
+get_sms                                           obj/Debug/GSM.o
+                                                  obj/Debug/main.o
+get_temperature                                   obj/Debug/ds18b20.o
+                                                  obj/Debug/app.o
+get_time_from_button_s                            obj/Debug/timer.o
+                                                  obj/Debug/port.o
+                                                  obj/Debug/app.o
+get_time_from_motion_s                            obj/Debug/timer.o
+                                                  obj/Debug/eeprom.o
+                                                  obj/Debug/app.o
+get_time_from_start_s                             obj/Debug/timer.o
+                                                  obj/Debug/app.o
+get_time_m                                        obj/Debug/timer.o
+                                                  obj/Debug/GSM.o
+get_time_ms                                       obj/Debug/timer.o
+                                                  obj/Debug/GSM.o
+get_time_s                                        obj/Debug/timer.o
+                                                  obj/Debug/UART.o
+                                                  obj/Debug/main.o
+                                                  obj/Debug/GSM.o
+                                                  obj/Debug/app.o
+get_time_without_power_s                          obj/Debug/app.o
+head                                              obj/Debug/UART.o
+inc_reset_count_mcu                               obj/Debug/eeprom.o
+                                                  obj/Debug/GSM.o
+incoming_call_processing                          obj/Debug/GSM.o
+                                                  obj/Debug/main.o
+init_ds18x20                                      obj/Debug/ds18b20.o
+                                                  obj/Debug/main.o
+init_internal_temperature                         obj/Debug/app.o
+                                                  obj/Debug/main.o
+init_uart                                         obj/Debug/UART.o
+                                                  obj/Debug/main.o
+is_btn_rst_pressed                                obj/Debug/port.o
+                                                  obj/Debug/app.o
+is_queue_not_empty                                obj/Debug/UART.o
+                                                  obj/Debug/timer.o
+                                                  obj/Debug/main.o
+                                                  obj/Debug/GSM.o
+isspace                                           /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(isspace.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtoul.o)
+led_gsm                                           obj/Debug/GSM.o
+                                                  obj/Debug/port.o
+led_management                                    obj/Debug/port.o
+                                                  obj/Debug/timer.o
+main                                              obj/Debug/main.o
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+malloc                                            /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(malloc.o)
+map_s                                             obj/Debug/GSM.o
+                                                  obj/Debug/app.o
+mdm_get_signal_strength                           obj/Debug/GSM.o
+                                                  obj/Debug/app.o
+memcmp                                            /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memcmp.o)
+                                                  obj/Debug/sms_parse.o
+memcmp_P                                          /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memcmp_P.o)
+                                                  obj/Debug/sms_parse.o
+memcpy                                            /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memcpy.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memmove.o)
+memmove                                           /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memmove.o)
+                                                  obj/Debug/GSM.o
+memset                                            /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(memset.o)
+                                                  obj/Debug/sms_parse.o
+owire_init                                        obj/Debug/18b20.o
+owire_read                                        obj/Debug/18b20.o
+owire_read_bit                                    obj/Debug/18b20.o
+owire_write                                       obj/Debug/18b20.o
+port_init                                         obj/Debug/port.o
+                                                  obj/Debug/main.o
+power_control                                     obj/Debug/app.o
+                                                  obj/Debug/main.o
+print_ram_free                                    obj/Debug/app.o
+                                                  obj/Debug/main.o
+process_sms_body                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/GSM.o
+reset_mcu                                         obj/Debug/GSM.o
+                                                  obj/Debug/timer.o
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/app.o
+reset_soft_wdt                                    obj/Debug/timer.o
+                                                  obj/Debug/main.o
+                                                  obj/Debug/app.o
+reset_uart_queue                                  obj/Debug/UART.o
+rst_default                                       obj/Debug/app.o
+                                                  obj/Debug/main.o
+send_USSD                                         obj/Debug/GSM.o
+                                                  obj/Debug/main.o
+                                                  obj/Debug/app.o
+send_sms                                          obj/Debug/GSM.o
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/app.o
+send_sms_admins                                   obj/Debug/GSM.o
+                                                  obj/Debug/app.o
+send_sms_p                                        obj/Debug/GSM.o
+                                                  obj/Debug/sms_parse.o
+send_sms_report                                   obj/Debug/app.o
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/GSM.o
+send_unsent_sms                                   obj/Debug/GSM.o
+set_accept_calls                                  obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+set_accept_sms                                    obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+set_admin_mode                                    obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+set_autoguard                                     obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/app.o
+set_ext_temp                                      obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+set_first_m                                       obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+set_first_usage                                   obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/app.o
+set_flag_alarm                                    obj/Debug/app.o
+                                                  obj/Debug/port.o
+set_guard                                         obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/port.o
+                                                  obj/Debug/GSM.o
+                                                  obj/Debug/app.o
+set_interval_after_button_m                       obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+set_my_phone                                      obj/Debug/sms_parse.o
+set_pause_alarm_report_s                          obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+set_power_report                                  obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+set_report_on_guard                               obj/Debug/eeprom.o
+                                                  obj/Debug/sms_parse.o
+set_reset_count_mcu                               obj/Debug/eeprom.o
+                                                  obj/Debug/GSM.o
+set_time_from_button_s                            obj/Debug/timer.o
+                                                  obj/Debug/port.o
+                                                  obj/Debug/app.o
+set_time_from_motion_s                            obj/Debug/timer.o
+                                                  obj/Debug/eeprom.o
+                                                  obj/Debug/app.o
+setup_init                                        obj/Debug/GSM.o
+                                                  obj/Debug/main.o
+softuart_init                                     obj/Debug/softuart.o
+                                                  obj/Debug/main.o
+softuart_putchar                                  obj/Debug/softuart.o
+softuart_puts                                     obj/Debug/softuart.o
+                                                  obj/Debug/app.o
+softuart_puts_ln                                  obj/Debug/softuart.o
+                                                  obj/Debug/main.o
+                                                  obj/Debug/GSM.o
+                                                  obj/Debug/app.o
+softuart_puts_p                                   obj/Debug/softuart.o
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/main.o
+                                                  obj/Debug/GSM.o
+                                                  obj/Debug/eeprom.o
+                                                  obj/Debug/ds18b20.o
+                                                  obj/Debug/app.o
+softuart_transmit_busy                            obj/Debug/softuart.o
+sprintf                                           /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf.o)
+                                                  obj/Debug/main.o
+sprintf_P                                         /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf_p.o)
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/GSM.o
+                                                  obj/Debug/app.o
+strchr                                            /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strchr.o)
+                                                  obj/Debug/GSM.o
+strnlen                                           /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strnlen.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(vfprintf_std.o)
+strnlen_P                                         /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strnlen_P.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(vfprintf_std.o)
+strrev                                            /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+strstr                                            /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strstr.o)
+                                                  obj/Debug/GSM.o
+strstr_P                                          /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strstr_P.o)
+                                                  obj/Debug/GSM.o
+strtok                                            /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtok.o)
+                                                  obj/Debug/GSM.o
+strtok_r                                          /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtok_r.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtok.o)
+strtoul                                           /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(strtoul.o)
+                                                  obj/Debug/sms_parse.o
+                                                  obj/Debug/GSM.o
+tail                                              obj/Debug/UART.o
+timer1_init                                       obj/Debug/timer.o
+                                                  obj/Debug/main.o
+uart_flush                                        obj/Debug/UART.o
+                                                  obj/Debug/GSM.o
+uart_send_buf                                     obj/Debug/UART.o
+uart_send_byte                                    obj/Debug/UART.o
+                                                  obj/Debug/GSM.o
+uart_send_str                                     obj/Debug/UART.o
+                                                  obj/Debug/GSM.o
+uart_send_str_p                                   obj/Debug/UART.o
+                                                  obj/Debug/GSM.o
+vfprintf                                          /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(vfprintf_std.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf_p.o)
+                                                  /home/prapor/AVR/avr-gcc-11.1.0-x64-linux/bin/../lib/gcc/avr/11.1.0/../../../../avr/lib/avr5/libc.a(sprintf.o)

@@ -1,0 +1,6 @@
+#ifndef 18B20_H_INCLUDED
+#define 18B20_H_INCLUDED
+
+
+
+#endif // 18B20_H_INCLUDED
