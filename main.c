@@ -28,9 +28,6 @@ int main(void)
     delay_ms(5000);
     power_control();
     delete_all_sms();
-    #if(DEBUG==1)
-    print_ram_free();
-    #endif
     beep_non_block(100);
     softuart_puts_p(PSTR("Init Ok"));
     uint32_t now = get_time_s();
@@ -44,26 +41,6 @@ int main(void)
         power_control();
         check_temperature_smoke();
         get_sms();
-
-        if(get_time_s() > now + 10)
-        {
-            #if(DEBUG==1)
-            print_ram_free();
-            #endif
-            //debug_report();
-            char debug_buffer[8];
-            char debug_buffer2[12];
-            //char debug_buffer3[12];
-            sprintf(debug_buffer,"bat=%d", analog_read(BATTERY));
-            softuart_puts_ln(debug_buffer);
-            delay_ms(100);
-            sprintf(debug_buffer2,"t_int=%dC", analog_read(INT_TEMP));
-            softuart_puts_ln(debug_buffer2);
-            //sprintf(debug_buffer3,"t_ext=%dC", get_temperature());
-            //softuart_puts_ln(debug_buffer3);
-            //softuart_puts_ln("123");
-            now = get_time_s();
-        }
         while(is_queue_not_empty())
         {
             get_message_from_mdm();
